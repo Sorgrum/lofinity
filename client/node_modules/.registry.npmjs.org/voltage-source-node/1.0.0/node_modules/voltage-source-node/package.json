@@ -1,0 +1,23 @@
+{
+  "name": "voltage-source-node",
+  "version": "1.0.0",
+  "description": "A web audio voltage source node",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danigb/voltage-source-node.git"
+  },
+  "keywords": [
+    "voltage",
+    "web",
+    "audio"
+  ],
+  "author": "danigb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danigb/voltage-source-node/issues"
+  },
+  "homepage": "https://github.com/danigb/voltage-source-node#readme"
+}
