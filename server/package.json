@@ -20,7 +20,7 @@
     "node-lame": "^1.1.0",
     "shelljs": "^0.8.5",
     "sleep": "^5.2.3",
-    "socket.io": "^2.4.0",
+    "socket.io": "^2.5.0",
     "socket.io-stream": "^0.9.1",
     "sox-audio": "^0.3.0",
     "stream": "0.0.2",
